@@ -31,7 +31,7 @@ color: #2C2B2B;
     /* Rectangle 688 */
 
 position: absolute;
-width: 343px;
+width: 335px;
 height: 50px;
 left: 16px;
 top: 135px;
@@ -43,7 +43,7 @@ border: none;
 .inp-2{
     
 position: absolute;
-width: 343px;
+width: 335px;
 height: 50px;
 left: 16px;
 top: 209px;
@@ -56,7 +56,7 @@ border: none;
     /* Rectangle 690 */
 
 position: absolute;
-width: 343px;
+width: 335px;
 height: 50px;
 left: 16px;
 top: 283px;
@@ -69,7 +69,7 @@ border: none;
     /* Rectangle 691 */
 
 position: absolute;
-width: 343px;
+width: 335px;
 height: 50px;
 left: 16px;
 top: 357px;
@@ -83,7 +83,7 @@ border: none;
     /* Rectangle 692 */
 border: none;
 position: absolute;
-width: 343px;
+width: 335px;
 height: 50px;
 left: 16px;
 top: 574px;
@@ -188,7 +188,7 @@ border-radius: 8px;
 
 .haveaccount{
     position: absolute;
-      width: 195px;
+      width: 180px;
       height: 15px;
       left: calc(50% - 195px/2);
       top: 756px;
