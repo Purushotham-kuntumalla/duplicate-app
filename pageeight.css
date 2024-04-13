@@ -36,7 +36,7 @@ color: #2C2B2B;
 position: absolute;
 width: 20px;
 height: 20px;
-left: 16px;
+left: calc(50% - 343px/2);;
 top: 83px;
 
 background: #F1F1F1;
@@ -61,7 +61,7 @@ box-sizing: border-box;
 position: absolute;
 width: 328.75px;
 height: 70px;
-left: 16px;
+left: calc(50% - 343px/2);
 top: 287.31px;
 
 background: linear-gradient(90.07deg, rgba(129, 157, 255, 0.28) 5.94%, rgba(16, 16, 16, 0) 76.45%);
