@@ -31,7 +31,11 @@ color: #2C2B2B;
     /* Rectangle 688 */
 
 position: absolute;
+<<<<<<< HEAD
 width: 335px;
+=======
+width: 330px;
+>>>>>>> 0955af664f7cf20c2f7b9e9af882590c00706e11
 height: 50px;
 left: 16px;
 top: 135px;
@@ -43,7 +47,11 @@ border: none;
 .inp-2{
     
 position: absolute;
+<<<<<<< HEAD
 width: 335px;
+=======
+width:  330px;
+>>>>>>> 0955af664f7cf20c2f7b9e9af882590c00706e11
 height: 50px;
 left: 16px;
 top: 209px;
@@ -56,7 +64,11 @@ border: none;
     /* Rectangle 690 */
 
 position: absolute;
+<<<<<<< HEAD
 width: 335px;
+=======
+width:  330px;
+>>>>>>> 0955af664f7cf20c2f7b9e9af882590c00706e11
 height: 50px;
 left: 16px;
 top: 283px;
@@ -69,7 +81,11 @@ border: none;
     /* Rectangle 691 */
 
 position: absolute;
+<<<<<<< HEAD
 width: 335px;
+=======
+width:  330px;
+>>>>>>> 0955af664f7cf20c2f7b9e9af882590c00706e11
 height: 50px;
 left: 16px;
 top: 357px;
@@ -83,7 +99,11 @@ border: none;
     /* Rectangle 692 */
 border: none;
 position: absolute;
+<<<<<<< HEAD
 width: 335px;
+=======
+width:  330px;
+>>>>>>> 0955af664f7cf20c2f7b9e9af882590c00706e11
 height: 50px;
 left: 16px;
 top: 574px;
@@ -109,7 +129,7 @@ border-radius: 12px;
     /* By proceeding, I agree to all T&C and Privacy Policy */
 
 position: absolute;
-width: 313px;
+width: 307px;
 height: 21px;
 left: 46px;
 top: 431px;
@@ -188,7 +208,11 @@ border-radius: 8px;
 
 .haveaccount{
     position: absolute;
+<<<<<<< HEAD
       width: 230px;
+=======
+      width: 185px;
+>>>>>>> 0955af664f7cf20c2f7b9e9af882590c00706e11
       height: 15px;
       left: calc(50% - 195px/2);
       top: 756px;

@@ -40,7 +40,7 @@
         align-items: center;
         justify-content: space-between;
         /* Rectangle 688 */
-width: 343px;
+width:  330px;
 height: 50px;
 padding: 5px;
 margin-bottom: 10px;
@@ -66,7 +66,7 @@ border-radius: 12px;
         /* Rectangle 692 */
     border: none;
     position: absolute;
-    width: 343px;
+    width: 330px;
     height: 50px;
     left: 16px;
     top: 700px;
@@ -88,4 +88,12 @@ border-radius: 12px;
     }
       
       
+<<<<<<< HEAD
 }
+=======
+      .confirm-btn:hover {
+        background-color: #45a049;
+      }
+
+}
+>>>>>>> 0955af664f7cf20c2f7b9e9af882590c00706e11
